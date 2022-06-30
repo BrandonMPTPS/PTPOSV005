@@ -1,6 +1,7 @@
 # ptposv005
 
 The Power Tap Operating System for all platforms.
+(THIS PROJECT IS STILL UNDER DEVELOPMENT. USE AT YOUR OWN RISK)
 
 ## Getting Started
 
